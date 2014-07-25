@@ -1,11 +1,13 @@
 
 #Soccerbot challenges
 
-Now that you have built a Soccerbot let's put it threw it's paces.
+Now that you have built a Soccerbot let's put it through it's paces.
+
+Each challenge will require you to program your soccerbot so that is can perform the challenge. No touch the keyboard during a challenge.
 
 ##Individual bot challenges
 
-The soccerbot with the lowest time and the most goals wins
+The soccerbot with the lowest time and the most goals wins.
 
 ###Challenge One
 
@@ -27,8 +29,7 @@ Driddle a ball through 6 cones in a row 0.5 meters apart.
 
 ###Challenge Five
 
-Penalty spot kicks - 0.5 meter from the goal area.
-Each one get 3 goes.
+Penalty spot kicks - 0.5 meter from the goal area. You get 3 goes.
 
 ## Soccerbot match
 
