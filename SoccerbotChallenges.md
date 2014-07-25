@@ -5,16 +5,16 @@ Now that you have built a Soccerbot let's put it threw it's paces.
 
 ##Individual bot challenges
 
-The bot with the lowest time and the most goals wins
+The soccerbot with the lowest time and the most goals wins
 
 ###Challenge One
 
 4 Cones in a 1meter x 1meter square - your bot needs to get around the square.
-This a calibration routine for the others.
+This a calibration routine for the others, 3 runs allowed the best one counts.
 
 ###Challenge Two
 
-Based on what you learned from the 
+Based on what you learned from Challenge one - no trial runs allowed.
 6 cones in a row 0.5 meters apart - zig zag throug the cones without knocking them over.
 
 ###Challenge Three
@@ -23,8 +23,13 @@ Based on what you learned from the
 
 ###Challenge Four
 
-Kick a penalty of a spot - 0.5 meter from the goal area.
+Driddle a ball through 6 cones in a row 0.5 meters apart. 
+
+###Challenge Five
+
+Penalty spot kicks - 0.5 meter from the goal area.
+Each one get 3 goes.
 
 ## Soccerbot match
 
-Two teams line up for a Soccerbots Cape Town 2014.
+Teams line up for Soccerbots Cape Town 2014.
