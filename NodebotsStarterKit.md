@@ -5,7 +5,8 @@ Parts you need to get complete the [Arduino Experimenter's Guide for NodeJS](htt
 Available for R575
 
 ## Parts included are:
-
+* 10 x 1N4007 Diode
+* 10 x 1N4148 Diode
 * 1 x Shift Register
 * 1 x Buzzer
 * 1 x Trim pot / potentio meter
