@@ -22,3 +22,10 @@ This is a rough outline of the day. It's your day after all...
 * 12h30 - 13h00     Lunch - pizza - thanks [GDC Cape Town](https://plus.google.com/108309780217630451504/posts)
 * 13h00 - 18h00     [Soccerbots](SoccerbotChallenges.md) commence - inspired by [Sumobot Jr](https://github.com/makenai/sumobot-jr)
 * 18h00 - next time Go home and build stuff using Javascript
+
+Links
+=====
+
+- <https://medium.com/connect-blog/20bfc59004bd>
+- <https://medium.com/connect-blog/a375e714c974>
+- <https://medium.com/laravel-4/8b18feccd3c>
